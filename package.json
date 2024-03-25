@@ -1,0 +1,25 @@
+{
+  "name": "webapp-automate-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RTP-OTS/Webapp-automate-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RTP-OTS/Webapp-automate-test/issues"
+  },
+  "homepage": "https://github.com/RTP-OTS/Webapp-automate-test#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.42.1",
+    "@types/node": "^20.11.30"
+  },
+  "dependencies": {
+    "pg": "^8.11.3"
+  }
+}
